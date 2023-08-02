@@ -1,0 +1,27 @@
+label{
+  font-size: 25px;
+  font-family: 'Baloo Tammudu 2', cursive;
+  margin:0px;
+  display:block;
+         }
+  
+ input{
+   border: 3px solid lime;
+   border-radius:5px;
+   height: 50px;
+   width: 25%;
+   font-size: 25px; 
+   color: green;
+   margin:0px;
+   display:block;
+   }
+
+button{
+  background:lime;
+  padding:20px;
+  font-size:25px;
+  font-family: 'Baloo Tammudu 2';
+  border-radius:20px;
+  border: 0;
+  margin:10px 0px;
+}

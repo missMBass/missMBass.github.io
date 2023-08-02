@@ -1,0 +1,54 @@
+#wrapper{
+  margin:0px 50px 0px 50px
+}
+
+header{
+  background-color:cyan;
+  height:70px;
+ 
+}
+
+.screen{
+  display:flex
+}
+.LeftSide{
+  background-color:orange;
+  height:500px;
+  width:20%;
+  margin-right:5px;
+  
+}
+
+.Content{
+  background-color:red;
+  height:500px;
+  width:60%;
+  margin:0 5px 0 5px;
+}
+
+.RightSide{
+  background-color:purple;
+  height:500px;
+  width:20%;
+  margin-left:5px;
+  
+}
+
+.black{
+  background-color:black;
+  height:50px;
+  width:50px;
+  margin:10px;
+}
+    
+.Content{
+  display:flex;
+  align-items:flex-end;
+  justify-content:flex-end;
+  }
+
+footer{
+  background-color:blue;
+  height:70px;
+  width:100%;
+}

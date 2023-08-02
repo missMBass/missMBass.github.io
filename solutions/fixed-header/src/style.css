@@ -1,0 +1,43 @@
+.header{
+  background-color:purple;
+  height:70px;
+  width:100%;
+  margin:0;
+  position:fixed;
+  top:0;
+  left:0;
+  list-style-type:none;
+  display:flex;
+}
+
+.item{
+  background-color:cyan;
+  height:30px;
+  width:50px;
+  margin:20px;
+}
+
+.screen{
+  display:flex
+}
+.green{
+  background-color:lime;
+  height:500px;
+  flex-grow:1;
+  margin-left:100px;
+  margin-top:80px;
+}
+.yellow{
+  background-color:yellow;
+  flex-grow:4;
+  height:500px;
+  margin-right:100px;
+  margin-top:80px;
+  position:right;
+}
+
+.footer{
+  background-color:lightgrey;
+  height:80px;
+  margin:10px 100px 0px 100px;
+}

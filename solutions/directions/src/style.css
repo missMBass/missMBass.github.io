@@ -1,0 +1,24 @@
+main {
+  background: #4285f4;
+  border: 10px solid #4285f4;
+  margin: 50px 500px;
+  }
+
+p {
+  color: white;
+  text-align: center;
+  padding: 40px;
+  margin: 0;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-family: 'Baloo Thambi 2', cursive;
+  }
+
+.North {
+  background: #E67676;
+  }
+
+.South {
+  background: #A9E6E6;
+ }
